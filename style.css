@@ -8,12 +8,11 @@
 }
 
 .land{
-    min-height: 110vh;
+    min-height: 100vh;
     background: url(https://traversymedia.com/downloads/assets/beachshowcase.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     object-fit: cover;
     text-transform: capitalize;
     display: flex;
