@@ -8,6 +8,7 @@
 }
 
 .land{
+    min-height: 100vh;
     background: url(https://traversymedia.com/downloads/assets/beachshowcase.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -48,6 +49,7 @@
     border-radius: 10px;
     font-size: 1.125rem;
     margin-top: 10px;
+    transition: all 200ms ease-in-out;
 }
 
 .btn:hover,.btn:focus{
@@ -56,7 +58,7 @@
 
 .area{
     padding: 1.25rem;
-    font-size: 1.063rem;
+    font-size: 1.2rem;
     text-align: center;
     line-height: 1.6;
 }
