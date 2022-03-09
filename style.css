@@ -16,15 +16,11 @@
     background-attachment: fixed;
     object-fit: cover;
     text-transform: capitalize;
-}
-
-.text{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 0 1rem;
-    min-height: 100vh;
     text-align: center;
 }
 
